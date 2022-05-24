@@ -1,0 +1,152 @@
+.header{
+background: green;
+width: 500px;
+margin-left: auto;
+margin-right: auto;
+height: 300px;
+}
+
+.header2{
+background: green;
+width: 400px;
+height: 50px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 40px;
+text-align:	center; 
+}
+
+.description{
+background: grey;
+width: 1000px;
+height: 100px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 100px;
+}
+
+.res{
+background: green;
+width: 200px;
+height: 1000px;
+margin-left: 50px;
+margin-top: 100px;
+}
+
+.res2{
+background: brown;
+width: 500px;
+height: 1000px;
+margin-left: 50px;
+margin-top: 100px;
+}
+
+.creative{
+background: green;
+width: 500px;
+height: 500px;
+}
+
+.creative2{
+background: brown;
+width: 500px;
+height: 500px;
+}
+
+.rod{
+background: white;
+width: 900px;
+height: 1400px;
+display: flex;
+margin-right: auto;
+margin-left: auto;
+}
+
+.rod2{
+background: white;
+width: 1050px;
+display: flex;
+margin-right: auto;
+margin-left: auto;
+}
+
+.rod3{
+background: white;
+width: 900px;
+display: flex;
+margin-right: auto;
+margin-left: auto;
+}
+
+.rod4{
+background: white;
+width: 900px;
+display: flex;
+margin-right: auto;
+margin-left: auto;
+}
+
+.buildings{
+background: green;
+width: 300px; 
+height: 500px;
+margin-top: 100px;
+}
+
+.buildings2{
+background: orange;
+width: 900px;
+height: 315px;
+margin-top: 100px;
+}
+
+.buildings3{
+background: orange;
+width: 300px;
+height: 500px;
+margin-top: 100px;
+margin-left: 50px;
+}
+
+.buildings4{
+background: green;
+width: 300px;
+height: 500px;
+margin-top: 100px;
+margin-left: 50px;
+}
+
+.ml-50{
+margin-left: 50px;
+}
+
+.weapon{
+background: green;
+width: 1000px;
+height: 1000px;
+margin-top: 100px;
+margin-right: auto;
+margin-left: auto;
+}
+
+.enemy{
+background: brown;
+width: 1000px;
+height: 1000px;
+margin-top: 100px;
+margin-right: auto;
+margin-left: auto;
+}
+
+.jpeg{
+width: 500px;
+height: 500px;
+}
+
+.text{
+font-size: 20px;
+}
+
+.mt-50{
+	margin-top: 50px;
+}
